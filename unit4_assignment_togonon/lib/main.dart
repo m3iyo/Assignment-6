@@ -83,7 +83,7 @@ class MyProfilePage extends StatelessWidget {
             ),
             SizedBox(height: 10),
             Text(
-              'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur repellendus veritatis unde dicta, architecto aliquid veniam eum ipsum, beatae iste, tempore reprehenderit amet quia voluptatibus expedita harum a cupiditate atque. Obcaecati accusantium aspernatur doloremque repudiandae quo sunt earum quos reiciendis! Quaerat optio cum laboriosam inventore libero a sapiente maiores mollitia, dolor quibusdam ipsum necessitatibus incidunt earum distinctio consectetur doloribus? Voluptatum!',
+              'Hi, I\'m Lord Patrick Raizen G. Togonon. I\'m a passionate individual with a diverse range of interests. When I\'m not exploring the world of technology, you can find me immersed in the fascinating realms of movies, music, and gaming. I enjoy the thrill of coding, the magic of storytelling on the big screen, the melodies that resonate with my soul, and the excitement of virtual adventures. My hobbies keep me engaged, entertained, and constantly learning new things.',
               style: TextStyle(fontSize: 16),
             ),
           ],
